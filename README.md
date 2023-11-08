@@ -3,7 +3,7 @@
 Update your Twitter header image with generative AI.
 
 Powered by [Replicate](https://replicate.com?utm_source=project&utm_campaign=tweetfusion), a platform for running machine learning models in the cloud.
-
+- https://github.com/cbh123/tweetfusion
 
 ## How to use it
 
